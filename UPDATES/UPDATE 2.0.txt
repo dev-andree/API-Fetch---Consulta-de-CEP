@@ -1,0 +1,14 @@
+--------------------------
+UPDATE - 2.0 - 16/05/2024
+--------------------------
+
+======HTML
+-Criacao de botao para limpar a tela
+-Inicio da implementacao do botao salvar localmente
+
+
+======JavaScript
+-Formatacao dos campos retornados pela API viaCEP
+--CEP, Logradouro, Complemento, Bairro, Localidade, UF, IBGE, GIA, DDD, SIAFI
+-Implementacao do tratamento de erro do Usuario para/com API
+-Implementacao da funcao limpar tela

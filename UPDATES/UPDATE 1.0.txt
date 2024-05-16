@@ -1,0 +1,21 @@
+--------------------------
+UPDATE - 1.0 - 15/05/2024
+--------------------------
+
+======HTML
+-Alteracao do arquivo html original (passado em sala).
+-Mudança da linguagem da pagina para pt-BR
+-Criacao de uma section principal contendo label, input e 3 bottons
+-Criacao de uma section secundaria para o campo de respostas contendo um paragrafo
+
+
+======JavaScript
+-Criacao de 3 let obtendo via IP os elementos cep, botao e resposta
+-Criacao de um evento de escutar para o botao
+-Criacao da funcao clicar para o botao contendo
+--let para receber o valor do cep
+--constante para obter a API
+--Alteracao do metodo fetch original(passado em sala) para uma maneira mais simples
+--Resolucao das promessas
+--Inserindo as informacoes da API viaCep (sem formatacao)
+-Inicio (rascunho) para tratamento de erro do Usuario para/com API
