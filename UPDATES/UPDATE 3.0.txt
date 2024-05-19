@@ -1,0 +1,17 @@
+--------------------------
+UPDATE - 3.0 - 19/05/2024
+--------------------------
+
+======HTML
+
+
+
+======JavaScript
+Atualização específica com foco apenas em salvar localmente os dados a qual
+durou 2 dias para serem implementadas (18/05 a 19/05)
+
+-Implementação da função 'salvar' onde a mesma pega os elementos da tela
+e salva localmente em um localStorage
+
+-Implementação para carregamento dos elementos da tela após a página ser
+recarregada
