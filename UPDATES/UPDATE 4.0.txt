@@ -1,0 +1,27 @@
+--------------------------
+UPDATE - 4.0 - 20/05/2024
+--------------------------
+
+======HTML
+-Mudanca do titulo da pagina
+
+-Adicao de um link para a folha de estilos
+
+-Insercao de + id(s) para mundancas de estilos na folha de estilos
+
+======JavaScript
+
+
+======CSS
+-Estilos especificos para o campo principal, dentre eles um background
+
+-Formatacao do Titulo principal da pagina o qual eh um labal, dentre eles colocar uma fonte de caracteristica bold
+
+-Formatacao do input para inserir um cep
+
+-Formatacao dos 3 botoes principais da pagina, dentre eles a mudanca de posicao e animacoes
+
+-Formatacao dos campos onde aparecerao as respostas das consultas de cep, dentre eles a mudanca das fontes
+
+**Criacao de uma pasta para inicio da implementacao de um background da pagina
+    **AINDA NAO IMPLEMENTADO**
