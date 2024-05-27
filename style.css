@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(39, 39, 179);
+    font-family: Arial, sans-serif;
+}
+
+header {
+    position: absolute;
+    background-color: rgb(0, 71, 171);
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px 0;
+    top: 0;
+    left: 0;
+}
+
+#CampoDeApresentacao {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    margin: 150px 0;
+}
+
+#botao, #cep, #limpaTela, #salvarLocalmente {
+    font-size: 1.25rem;
+    width: calc(50% - 40px);
+    max-width: 500px;
+    height: 70px;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+}
+
+#cep {
+    height: 66.1px;
+}
+
+#Enderecos {
+    background-color: rgb(0, 71, 171);
+    color: white;
+    border-radius: 3px;
+    padding: 20px;
+    font-size: 1.25rem;
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+@media (min-width: 600px) {
+    #botao, #cep, #limpaTela, #salvarLocalmente, #Enderecos {
+        max-width: 600px;
+    }
+}
+
+@media (min-width: 900px) {
+    #botao, #cep, #limpaTela, #salvarLocalmente, #Enderecos {
+        max-width: 700px;
+    }
+}
+
+@media (min-width: 1200px) {
+    #botao, #cep, #limpaTela, #salvarLocalmente, #Enderecos {
+        max-width: 800px;
+    }
+}
