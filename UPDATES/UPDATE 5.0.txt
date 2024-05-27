@@ -1,0 +1,20 @@
+--------------------------
+UPDATE - 5.0 - 26/05/2024
+--------------------------
+
+======HTML
+-Implementação de um header
+
+-Implementação de uma segunda section para fins informativos
+
+-Implementação e alteração de algumas Ids
+
+======JavaScript
+
+
+======CSS
+-Utilização dos dias 25/05 e 26/05 para mudanças significativas
+na folha de estilo com fins de deixar mais bonito visualmente
+
+-Implementação básica de resposividade na página para 
+o correto funcionamento em várias resoluções de computadores
